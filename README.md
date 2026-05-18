@@ -90,7 +90,7 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-Created by Your Name
+Yahye Rosi -DEV
 
 ---
 
